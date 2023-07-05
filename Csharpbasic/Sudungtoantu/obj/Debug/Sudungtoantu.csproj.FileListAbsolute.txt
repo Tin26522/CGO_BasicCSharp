@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Sudungtoantu\bin\Debug\Sudungtoantu.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Sudungtoantu\bin\Debug\Sudungtoantu.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Sudungtoantu\bin\Debug\Sudungtoantu.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Sudungtoantu\obj\Debug\Sudungtoantu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Sudungtoantu\obj\Debug\Sudungtoantu.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Sudungtoantu\obj\Debug\Sudungtoantu.pdb
