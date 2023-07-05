@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Hienthithoigian\bin\Debug\Hienthithoigian.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Hienthithoigian\bin\Debug\Hienthithoigian.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Hienthithoigian\bin\Debug\Hienthithoigian.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Hienthithoigian\obj\Debug\Hienthithoigian.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Hienthithoigian\obj\Debug\Hienthithoigian.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Hienthithoigian\obj\Debug\Hienthithoigian.pdb

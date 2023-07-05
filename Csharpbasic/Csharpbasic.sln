@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai2\Bai2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_chuyendoitiente", "CGO_chuyendoitiente\CGO_chuyendoitiente.csproj", "{64B7A7D5-5C76-4DD5-9D4E-C4381746584B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hienthithoigian", "Hienthithoigian\Hienthithoigian.csproj", "{433F9225-0E36-4F61-94AE-59E4626FE945}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{64B7A7D5-5C76-4DD5-9D4E-C4381746584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64B7A7D5-5C76-4DD5-9D4E-C4381746584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64B7A7D5-5C76-4DD5-9D4E-C4381746584B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433F9225-0E36-4F61-94AE-59E4626FE945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433F9225-0E36-4F61-94AE-59E4626FE945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433F9225-0E36-4F61-94AE-59E4626FE945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433F9225-0E36-4F61-94AE-59E4626FE945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
