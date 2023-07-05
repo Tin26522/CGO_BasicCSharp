@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\bin\Debug\CGO_chuyendoitiente.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\bin\Debug\CGO_chuyendoitiente.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\bin\Debug\CGO_chuyendoitiente.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\obj\Debug\CGO_chuyendoitiente.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\obj\Debug\CGO_chuyendoitiente.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\obj\Debug\CGO_chuyendoitiente.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\CGO_chuyendoitiente\obj\Debug\CGO_chuyendoitiente.pdb
