@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\obj\Debug\bangcuuchuong.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\obj\Debug\bangcuuchuong.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\bin\Debug\bangcuuchuong.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\bin\Debug\bangcuuchuong.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\bin\Debug\bangcuuchuong.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\obj\Debug\bangcuuchuong.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\bangcuuchuong\obj\Debug\bangcuuchuong.pdb

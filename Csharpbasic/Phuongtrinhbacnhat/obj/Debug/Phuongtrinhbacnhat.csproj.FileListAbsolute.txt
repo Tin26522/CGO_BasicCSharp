@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\bin\Debug\Phuongtrinhbacnhat.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\bin\Debug\Phuongtrinhbacnhat.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\bin\Debug\Phuongtrinhbacnhat.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.pdb
