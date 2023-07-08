@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docso", "Docso\Docso.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thietkemenu", "thietkemenu\thietkemenu.csproj", "{5BC85485-37EC-47AE-9301-81A2F1A55116}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songuyento", "ConsoleApp1\Songuyento.csproj", "{6AB07352-9BC1-480E-969E-02095378C3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hienthihinhhoc", "Hienthihinhhoc\Hienthihinhhoc.csproj", "{AA1C1902-4543-45DF-9522-D77CA0A71B62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB07352-9BC1-480E-969E-02095378C3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB07352-9BC1-480E-969E-02095378C3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB07352-9BC1-480E-969E-02095378C3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB07352-9BC1-480E-969E-02095378C3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
