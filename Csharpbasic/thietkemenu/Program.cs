@@ -49,13 +49,12 @@ namespace thietkemenu
                         Console.WriteLine("* * * * * *");
                         break;
                     case 0:
-                        Console.WriteLine("Exiting the program...");
-                        return;
+                        Environment.Exit(0);
+                        break;
                     default:
-                        Console.WriteLine("Invalid choice!");
+                        Console.WriteLine("No choice!");
                         break;
                 }
-
                 Console.WriteLine();
             }
         }
