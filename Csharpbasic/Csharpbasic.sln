@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cannangcothe", "Cannangcoth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docso", "Docso\Docso.csproj", "{35471A32-FE51-4A3F-B8BA-9F6915690060}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thietkemenu", "thietkemenu\thietkemenu.csproj", "{5BC85485-37EC-47AE-9301-81A2F1A55116}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{35471A32-FE51-4A3F-B8BA-9F6915690060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35471A32-FE51-4A3F-B8BA-9F6915690060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35471A32-FE51-4A3F-B8BA-9F6915690060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC85485-37EC-47AE-9301-81A2F1A55116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
