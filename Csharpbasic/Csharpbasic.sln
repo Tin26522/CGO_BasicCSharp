@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songuyento", "ConsoleApp1\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hienthihinhhoc", "Hienthihinhhoc\Hienthihinhhoc.csproj", "{AA1C1902-4543-45DF-9522-D77CA0A71B62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tinhtongmang", "tinhtongmang\tinhtongmang.csproj", "{0649459C-20FC-4573-8D28-FC6BA50AF63C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA1C1902-4543-45DF-9522-D77CA0A71B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0649459C-20FC-4573-8D28-FC6BA50AF63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0649459C-20FC-4573-8D28-FC6BA50AF63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0649459C-20FC-4573-8D28-FC6BA50AF63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0649459C-20FC-4573-8D28-FC6BA50AF63C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
