@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Timgtmang\bin\Debug\Timgtmang.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Timgtmang\bin\Debug\Timgtmang.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Timgtmang\bin\Debug\Timgtmang.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Timgtmang\obj\Debug\Timgtmang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Timgtmang\obj\Debug\Timgtmang.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\Timgtmang\obj\Debug\Timgtmang.pdb
