@@ -27,13 +27,31 @@ namespace Sapxepmang
                     }
                 }
             }
+            for (i = 0; i < arr.Length; i++)
+            {
+                Console.Write("{0}  ", arr[i]);
+            }
             return arr;
 
 
         }
-        public static void decrease(int[] arr)
+        public static int[] decrease(int[] arr)
         {
+            int i, j, tmp;
+            for (i = 0; i < arr.Length; i++)
+            {
+                for (j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[j] < arr[i])
+                    {
 
+                        tmp = arr[j];
+                        arr[i] = arr[j];
+                        arr[i] = tmp;
+                    }
+                }
+            }
+            return arr;
 
 
 
@@ -50,11 +68,9 @@ namespace Sapxepmang
                 Console.Write("Nhap gia tri thu {0}: ", i);
                 arrnumber[i] = int.Parse(Console.ReadLine());
             }
-            foreach (int item in arrnumber)
-            {
-                Console.WriteLine(item);
-            }
+          
             Console.WriteLine(increase(arrnumber));
+            
         }
     }
 }
