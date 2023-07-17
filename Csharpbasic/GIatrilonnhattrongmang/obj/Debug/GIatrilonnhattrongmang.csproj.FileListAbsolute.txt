@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\bin\Debug\GIatrilonnhattrongmang.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\bin\Debug\GIatrilonnhattrongmang.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\bin\Debug\GIatrilonnhattrongmang.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\obj\Debug\GIatrilonnhattrongmang.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\obj\Debug\GIatrilonnhattrongmang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\obj\Debug\GIatrilonnhattrongmang.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\GIatrilonnhattrongmang\obj\Debug\GIatrilonnhattrongmang.pdb
