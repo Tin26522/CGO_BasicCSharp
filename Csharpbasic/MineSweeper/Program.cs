@@ -9,6 +9,7 @@ namespace MineWeeper
         static void Main(string[] args)
         {
             string[,] map = {
+
             {"*", ".", ".", "."},
             {".", ".", ".", "."},
             {".", "*", ".", "."},
@@ -72,6 +73,7 @@ namespace MineWeeper
                 }
             }
             Console.ReadLine();
+            
         }
     }
 }
