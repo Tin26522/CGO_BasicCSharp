@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\bin\Debug\themPhanTuVaoMang.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\bin\Debug\themPhanTuVaoMang.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\bin\Debug\themPhanTuVaoMang.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\obj\Debug\themPhanTuVaoMang.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\obj\Debug\themPhanTuVaoMang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\obj\Debug\themPhanTuVaoMang.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\themPhanTuVaoMang\obj\Debug\themPhanTuVaoMang.pdb
