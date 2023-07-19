@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\bin\Debug\timPhanTuLonNhat.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\bin\Debug\timPhanTuLonNhat.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\bin\Debug\timPhanTuLonNhat.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\obj\Debug\timPhanTuLonNhat.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\obj\Debug\timPhanTuLonNhat.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\obj\Debug\timPhanTuLonNhat.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\timPhanTuLonNhat\obj\Debug\timPhanTuLonNhat.pdb
