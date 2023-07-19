@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\bin\Debug\tongDuongCheo.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\bin\Debug\tongDuongCheo.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\bin\Debug\tongDuongCheo.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\obj\Debug\tongDuongCheo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\obj\Debug\tongDuongCheo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\obj\Debug\tongDuongCheo.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\tongDuongCheo\obj\Debug\tongDuongCheo.pdb
