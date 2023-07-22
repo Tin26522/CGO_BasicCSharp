@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe.config
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.pdb
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.exe
+C:\Users\admin\source\repos\CGO_BasicCSharp\CGO_basicCsharp\Csharpbasic\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.pdb
