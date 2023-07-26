@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace IndexOutOfRangeException
+namespace IndexOutOfRangeException1
 {
     class Program
     {
