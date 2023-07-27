@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tongDuongCheo", "tongDuongC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRangeException", "IndexOutOfRangeException\IndexOutOfRangeException.csproj", "{4FAC6FCC-1DCF-4547-97D8-F1B7B1408060}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{8B0E0C54-A64A-45BE-A7B2-947DCBB958B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe1", "TicTacToe1\TicTacToe1.csproj", "{EB243C45-67D2-456C-817F-7B29987CD1EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{4FAC6FCC-1DCF-4547-97D8-F1B7B1408060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FAC6FCC-1DCF-4547-97D8-F1B7B1408060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FAC6FCC-1DCF-4547-97D8-F1B7B1408060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0E0C54-A64A-45BE-A7B2-947DCBB958B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0E0C54-A64A-45BE-A7B2-947DCBB958B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0E0C54-A64A-45BE-A7B2-947DCBB958B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0E0C54-A64A-45BE-A7B2-947DCBB958B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB243C45-67D2-456C-817F-7B29987CD1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB243C45-67D2-456C-817F-7B29987CD1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB243C45-67D2-456C-817F-7B29987CD1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB243C45-67D2-456C-817F-7B29987CD1EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
